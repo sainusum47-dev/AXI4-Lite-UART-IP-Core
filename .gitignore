@@ -1,0 +1,23 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.xpr.bak
+*.dmp
+
+# Vivado generated directories
+vivado/AXI_UART_IP/AXI_UART_IP.cache/
+vivado/AXI_UART_IP/AXI_UART_IP.gen/
+vivado/AXI_UART_IP/AXI_UART_IP.hw/
+vivado/AXI_UART_IP/AXI_UART_IP.ip_user_files/
+vivado/AXI_UART_IP/AXI_UART_IP.runs/
+vivado/AXI_UART_IP/AXI_UART_IP.sim/
+
+# Temporary files
+*.tmp
+*.backup
+
+# Vivado project and generated files
+vivado/
