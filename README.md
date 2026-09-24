@@ -148,3 +148,11 @@ Generated file:
 
 ```text
 bitstream/design_1_wrapper.bit
+
+![Uploading block_design.png…]()
+<img width="1352" height="686" alt="block_design" src="https://github.com/user-attachments/assets/48196b8f-de84-4f8a-b79e-b3d6dc1674dc" />
+![Uploading implementation.png…]()
+![Uploading synthesis.png…]()
+![Uploading timing.png…]()
+<img width="1349" height="678" alt="timing" src="https://github.com/user-attachments/assets/dae983b5-07ce-443b-af6d-36c2ee4a1f5b" />
+
