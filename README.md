@@ -43,3 +43,5 @@ This project implements a UART peripheral that can be accessed through an AXI4-L
         UART Transmitter      UART Receiver
              |                     |
            UART TX               UART RX
+
+<img width="1352" height="686" alt="block_design" src="https://github.com/user-attachments/assets/bee78214-b7d5-4e2d-9ca4-3612f9506048" />
